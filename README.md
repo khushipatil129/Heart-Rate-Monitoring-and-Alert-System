@@ -1,10 +1,10 @@
-# ❤️ Heart Rate Monitoring & Emergency Alert System
+#  Heart Rate Monitoring & Emergency Alert System
 
 **An Arduino-based real-time heart rate monitoring system that automatically sends SMS alerts to predefined emergency contacts when the detected heart rate falls below a configured threshold.**
 
 ---
 
-## 📑 Table of Contents
+##  Table of Contents
 
 * [Project Overview](#-project-overview)
 * [Problem Statement](#-problem-statement)
@@ -23,7 +23,7 @@
 
 ---
 
-## 🔎 Project Overview
+##  Project Overview
 
 The **Heart Rate Monitoring & Emergency Alert System** is an Arduino-based embedded system designed to continuously monitor a person's heart rate and provide an automated emergency notification when the detected heart rate falls below a predefined threshold.
 
@@ -37,7 +37,7 @@ The project combines **sensor interfacing, embedded programming, signal processi
 
 ---
 
-## ❗ Problem Statement
+##  Problem Statement
 
 Sudden changes in heart rate may require immediate attention, especially when a person is alone or when continuous supervision is not available.
 
@@ -53,7 +53,7 @@ This project aims to develop a **low-cost automated monitoring system** that can
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 The main objectives of this project are:
 
@@ -67,23 +67,23 @@ The main objectives of this project are:
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-* ❤️ Real-time heart rate monitoring
-* 📊 BPM calculation
-* 🚨 Automatic emergency detection
-* 📱 SMS-based emergency notification
-* 👥 Alert sent to three emergency contacts
-* 🔌 Pulse sensor interfacing
-* 📡 SIM800 GSM communication
-* ⚙️ Configurable heart-rate threshold
-* 💻 Serial Monitor for system output
-* 🔧 Arduino UNO-based implementation
-* 🔋 Potential for portable operation
+* Real-time heart rate monitoring
+* BPM calculation
+* Automatic emergency detection
+* SMS-based emergency notification
+* Alert sent to three emergency contacts
+* Pulse sensor interfacing
+* SIM800 GSM communication
+* Configurable heart-rate threshold
+* Serial Monitor for system output
+* Arduino UNO-based implementation
+* Potential for portable operation
 
 ---
 
-## 👤 User Roles
+##  User Roles
 
 The system involves the following roles:
 
@@ -120,7 +120,7 @@ The person responsible for configuring and maintaining the system.
 
 ---
 
-## 🔄 Application Workflow
+##  Application Workflow
 
 ```text
               ┌───────────────────┐
@@ -172,7 +172,7 @@ The person responsible for configuring and maintaining the system.
 
 ---
 
-## ⚙️ Functional Requirements
+##  Functional Requirements
 
 ### FR1 — Heart Rate Detection
 
@@ -218,7 +218,7 @@ The emergency contact numbers and heart-rate threshold shall be configurable thr
 
 ---
 
-## 🏗️ Project Design
+##  Project Design
 
 ### System Architecture
 
@@ -302,7 +302,7 @@ The emergency contact numbers and heart-rate threshold shall be configurable thr
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 The project can be extended with several additional features:
 
@@ -321,7 +321,7 @@ The project can be extended with several additional features:
 
 ---
 
-## 📌 Project Information
+##📌 Project Information
 
 | Information                 | Details                                        |
 | --------------------------- | ---------------------------------------------- |
@@ -340,7 +340,7 @@ The project can be extended with several additional features:
 
 ---
 
-## 📊 Project Status
+##  Project Status
 
 **🟢 Completed — Prototype**
 
