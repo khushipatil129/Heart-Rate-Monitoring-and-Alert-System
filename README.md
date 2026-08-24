@@ -18,8 +18,6 @@
 * [Project Information](#-project-information)
 * [Project Status](#-project-status)
 * [License](#-license)
-* [Acknowledgement](#-acknowledgement)
-* [If You Find This Project Helpful](#-if-you-find-this-project-helpful)
 
 ---
 
@@ -321,7 +319,7 @@ The project can be extended with several additional features:
 
 ---
 
-##📌 Project Information
+## Project Information
 
 | Information                 | Details                                        |
 | --------------------------- | ---------------------------------------------- |
