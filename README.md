@@ -313,7 +313,6 @@ The project can be extended with several additional features:
 * Web-based monitoring dashboard
 * Improved rechargeable battery system
 * IoT-based remote monitoring
-* Machine-learning-based abnormality detection
 * Monitoring of additional health parameters
 * Secure storage and transmission of user data
 
