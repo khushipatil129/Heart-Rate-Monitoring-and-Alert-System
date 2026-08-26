@@ -368,4 +368,10 @@ The current prototype successfully demonstrates:
 This project is intended primarily for **educational and demonstration purposes**.
 
 
+---
+
+## Author
+
+Developed as Mini project on:
+Heart Rate Monitoring and Alert System using Arduino IDE by Khushi Patil
 
