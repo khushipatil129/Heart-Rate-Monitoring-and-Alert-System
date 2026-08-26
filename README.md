@@ -18,6 +18,7 @@
 * [Project Information](#-project-information)
 * [Project Status](#-project-status)
 * [License](#-license)
+* [Author](#-Author)
 
 ---
 
